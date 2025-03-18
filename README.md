@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 - 👯 I’m looking to collaborate on web development and data science projects
 - 🤔 I’m looking for help with optimizing algorithms
 - 💬 Ask me about Python, web development, and System administration 
-- 📫 How to reach me: [justin.munch9@gmail.com](mailto:email@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coffee, cats, and relaxing outdoors 
 

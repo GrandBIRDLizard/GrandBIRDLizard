@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 ## 🛠️ Languages and Tools
 
 - **Languages:** Bash, Python, C
-- **Web Development:** HTML, CSS, Flask, Jinja
-- **Data Science:** Pandas, NumPy, 
+- **Web Development:** Flask, Jinja, Django
+- **Data Science:** Pandas, NumPy, matplotlib 
 - **Tools:** Git, Docker, Vim, Pycharm
 
 ## 📈 GitHub Stats

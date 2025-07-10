@@ -15,10 +15,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** Bash, Python, C
+- **Languages:** Bash, C, Python, Zig 
 - **Web Development:** Flask, Jinja, Django
 - **Data Science:** Pandas, NumPy, Matplotlib 
-- **Tools:** Git, Docker, Vim, Pycharm
+- **Tools:** Git, Docker, Vim
 
 ## 📈 GitHub Stats
 

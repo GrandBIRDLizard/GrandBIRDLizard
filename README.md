@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build and contribute to open-source projects. Here you'll find a collection of my work, ranging from small scripts to larger projects.
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I’m currently working on multiple open-source projects
 - 🌱 I’m currently advancing in Python, C, and Shell Scripting
@@ -28,3 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 
 Feel free to reach out if you have any questions or just want to connect!
 Thanks for visiting my profile!
+
+## 👀 Visits
+![Visits](https://komarev.com/ghpvc/?username=StanaAndrei)

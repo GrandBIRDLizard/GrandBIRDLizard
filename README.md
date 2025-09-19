@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 
 Feel free to reach out if you have any questions or just want to connect!
 Thanks for visiting my profile!
+
 [Show support by buying me a coffee](https://buymeacoffee.com/grandbirdlizard).
 ## 👀 Visits
 ![Visits](https://komarev.com/ghpvc/?username=StanaAndrei)

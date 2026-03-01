@@ -7,26 +7,20 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 
 ## About Me
 
-- 🔭 I’m currently working on multiple open-source projects
-- 🌱 I’m currently advancing in Python, C, and Shell Scripting
-- 👯 I’m looking to collaborate on web development and data science projects 
+- 🔭 currently working on multiple open-source projects
+- 🌱 I’m always advancing in C, Python, and Shell Scripting
+- 👯 I’m looking to collaborate on system level development and data science projects 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coffee, cats, and relaxing outdoors 
+- ⚡ Fun fact: I love coffee, cats, and, 
 
 ## 🛠️ Languages and Tools
 
 - **Languages:** Bash, C, Python, Zig 
-- **Web Development:** Flask, Jinja, Django
+- **Web Development:** Flask, Jinja,
 - **Data Science:** Pandas, NumPy, Matplotlib 
 - **Tools:** Git, Docker, Vim
 
-## 📈 GitHub Stats
-
-![GrandBIRDLizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrandBIRDLizard&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrandBIRDLizard&layout=compact&theme=radical)
-
-Feel free to reach out if you have any questions or just want to connect!
+Feel free to reach out if you have any questions, Issues  or just want to connect!
 Thanks for visiting my profile!
 
 [☕ Show support by buying me a coffee ☕](https://buymeacoffee.com/grandbirdlizard).

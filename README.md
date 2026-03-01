@@ -1,4 +1,4 @@
-# Hi there, I'm GrandBIRDLizard 👋
+# Hi there, I'm GrandBIRDLizard 🦎
 
 ![GitHub followers](https://img.shields.io/github/followers/GrandBIRDLizard?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/GrandBIRDLizard?style=social)

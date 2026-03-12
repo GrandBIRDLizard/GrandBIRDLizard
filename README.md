@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  ## Tools: 
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+ ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Feel free to reach out if you have any questions, Issues or just want to connect for a project or research!
@@ -39,6 +40,7 @@ Thanks for visiting my profile!
 
 ## Support
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/grandbirdlizard)
+![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
 ## 👀 Visits
 ![Visits](https://komarev.com/ghpvc/?username=StanaAndrei)

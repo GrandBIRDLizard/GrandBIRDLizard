@@ -1,4 +1,4 @@
-# Hi there, I'm GrandBIRDLizard 🦎
+# 🦎 Hi there, I'm GrandBIRDLizard 🦎
 
 ![GitHub followers](https://img.shields.io/github/followers/GrandBIRDLizard?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/GrandBIRDLizard?style=social)
@@ -10,19 +10,22 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
 - 🔭 currently working on multiple open-source projects
 - 🌱 I’m always advancing in C, Python, and Shell Scripting
 - 👯 I’m looking to collaborate on system level development and data science projects 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coffee, cats, and, 
+- 🦎 Pronouns: He/Him
+- ⚡ Fun fact: I love coffee, cats, and... 
 
 ## 🛠️ Languages and Tools
 
 - **Languages:** Bash, C, Python, Zig 
 - **Web Development:** Flask, Jinja,
-- **Data Science:** Pandas, NumPy, Matplotlib 
-- **Tools:** Git, Docker, Vim
+- **Data Science:** Pandas, NumPy, Matplotlib, Gnuplot. 
+- **Tools:** Git, Docker, Vim.
 
-Feel free to reach out if you have any questions, Issues  or just want to connect!
+Feel free to reach out if you have any questions, Issues or just want to connect for a project or research!
+I love talking new Ideas, solving new problems, or helping the world compute while taking a step back is what I'm all about.  
 Thanks for visiting my profile!
 
-[☕ Show support by buying me a coffee ☕](https://buymeacoffee.com/grandbirdlizard).
+## Support
+[![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/grandbirdlizard)
+
 ## 👀 Visits
 ![Visits](https://komarev.com/ghpvc/?username=StanaAndrei)

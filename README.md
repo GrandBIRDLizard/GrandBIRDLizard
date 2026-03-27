@@ -38,11 +38,14 @@ projects.
 
 Feel free to reach out if you have any questions, Issues or just want to connect for a project or
 research!
+
 I love talking new Ideas, solving new problems. Helping the world compute while taking a step back is
 what I'm all about.
+
 If you see anything that peaks your inerest give a follow, star, or watch. It helps establishing
-Developers get recognisiong for their work, and your encouragement drives me to develop better
+Developers get recognition for their work, and your encouragement drives me to develop better
 solutions to everyday problems.
+
 Thanks for visiting my profile!
 
 ## Support

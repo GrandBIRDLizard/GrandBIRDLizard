@@ -5,15 +5,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/GrandBIRDLizard?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/GrandBIRDLizard?style=social)
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to build and contribute to open-source projects. Here you'll find a collection of my work, ranging from small scripts to larger projects.
+Welcome to my GitHub profile! I'm a passionate developer who loves to build and contribute to open
+source projects. Here you'll find a collection of my work, ranging from small scripts to larger
+projects.
 
 ## About Me
 
 - 🔭 currently working on multiple open-source projects
 - 🌱 I’m always advancing in C, Python, and Shell Scripting
-- 👯 I’m looking to collaborate on system level development, practical tools, and data science projects. 
-- 🦎 Pronouns: He/Him
-- ⚡ Fun fact: I love coffee, cats, and... 
+- 👯 Willing to collaborate on system level development, practical tools, and data science projects. 
+- 🦎 Pronouns: He/Him/Lizard
+- ⚡ Fun facts: I love coffee, cats, and... 
 
 ## 🛠️ Languages and Tools
   ## Languages:
@@ -34,8 +36,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build and 
  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Feel free to reach out if you have any questions, Issues or just want to connect for a project or research!
-I love talking new Ideas, solving new problems, or helping the world compute while taking a step back is what I'm all about.  
+Feel free to reach out if you have any questions, Issues or just want to connect for a project or
+research!
+I love talking new Ideas, solving new problems. Helping the world compute while taking a step back is
+what I'm all about.
+If you see anything that peaks your inerest give a follow, star, or watch. It helps establishing
+Developers get recognisiong for their work, and your encouragement drives me to develop better
+solutions to everyday problems.
 Thanks for visiting my profile!
 
 ## Support

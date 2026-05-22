@@ -1,4 +1,4 @@
-# 🦎 Hi there, I'm GrandBIRDLizard 🦎
+# 🦎Hi there, I'm GrandBIRDLizard🦎
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 

@@ -28,18 +28,19 @@ projects and colaborations.
   ![CPython](https://img.shields.io/badge/CPython-00599C?style=for-the-badge&logo=c&logoColor=ffdd54)
 ## Web/Design:
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Zine](https://img.shields.io/badge/Zine-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
   ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
   ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
   ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
- ## Data Science:
- ![Gnuplot](https://img.shields.io/badge/Gnuplot-004687?style=for-the-badge&logo=gnuplot&logoColor=white)
- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
- ## Tools: 
- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
- ![Void Linux](https://img.shields.io/badge/Void%20Linux-143051?logo=void&logoColor=fff&style=for-the-badge)
- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Data Science:
+  ![Gnuplot](https://img.shields.io/badge/Gnuplot-004687?style=for-the-badge&logo=gnuplot&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+## Tools: 
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+  ![Void Linux](https://img.shields.io/badge/Void%20Linux-143051?logo=void&logoColor=fff&style=for-the-badge)
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Feel free to reach out if you have any questions, Issues or just want to connect for a project or
 research!

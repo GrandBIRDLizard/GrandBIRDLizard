@@ -14,7 +14,7 @@ projects and colaborations.
 ## About Me
 
 - Always working on multiple projects
-- I’m always advancing in C, Python, and Shell Scripting
+- I’m always advancing in C, Zig, Cpython, Python, and Shell Scripting(Bash).
 - Willing to collaborate on system level development, practical tools, and data science projects. 
 - 🦎 Pronouns: He/Him/Lizard
 - ⚡ Fun facts: I love coffee, cats, and... 

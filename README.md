@@ -56,7 +56,7 @@ Thanks for visiting my profile!
 
 ## Support
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/grandbirdlizard)
-![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](./.static/xmr_qr.png)
 
 ## 👀 Visits
 ![Visits](https://komarev.com/ghpvc/?username=StanaAndrei)

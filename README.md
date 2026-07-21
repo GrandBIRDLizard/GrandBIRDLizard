@@ -41,6 +41,9 @@ projects and colaborations.
   ![Void Linux](https://img.shields.io/badge/Void%20Linux-143051?logo=void&logoColor=fff&style=for-the-badge)
   ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GDB](https://img.shields.io/badge/GDB-grey.svg?style=for-the-badge&logo=gnu&logoColor=white)
+  ![Valgrind](https://img.shields.io/badge/Valgrind-orange.svg?style=for-the-badge&logoColor=black)
+  ![Godbolt](https://img.shields.io/badge/Godbolt-green.svg?style=for-the-badge&logoColor=black)
 
 Feel free to reach out if you have any questions, Issues or just want to connect for a project or
 research!

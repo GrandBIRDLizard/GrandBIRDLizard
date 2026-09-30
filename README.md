@@ -1,6 +1,6 @@
 # 🦎Hi there, I'm GrandBIRDLizard🦎
 
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+[![OSI](https://img.shields.io/badge/Open%20Source%20Initiative-Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org)
 
 ![GitHub followers](https://img.shields.io/github/followers/GrandBIRDLizard?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/GrandBIRDLizard?style=social)
